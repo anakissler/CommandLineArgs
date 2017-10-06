@@ -3,7 +3,6 @@ package edu.cnm.deepdive.intro;
 /**
  * This class demonstrates iteration over command line arguments.
  *
- * @author Ana Kistner
  */
 public class CommandLineArgs {
 
